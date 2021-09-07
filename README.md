@@ -5,10 +5,15 @@ Aim: Your task is to train a neural network model on the provided training data 
 Dataset consists of 3 folders Training, Validation and Testing which have 6 different classes:
 
    1. Bicycle
-   2. Boat
-   3. Cat
-   4.Motorbike
-   5. People
-   6.Table
+  
+  2. Boat
+  
+  3. Cat
+  
+  4.Motorbike
+  
+  5. People
+  
+  6.Table
    
    For the dataset link  - https://drive.google.com/file/d/1TdUIhRxjPtfg9sL1wN0qy37m9ieYzfOL/view
